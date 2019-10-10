@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570385967 source:c:\develop\uni\estructura_datos\projects\tarea02\main.cpp
+	<iostream>
+	<FlightCodeGenerator.h>
+
+1570385650 c:\develop\uni\estructura_datos\projects\tarea02\include\flightcodegenerator.h
+
+1570385645 source:c:\develop\uni\estructura_datos\projects\tarea02\src\flightcodegenerator.cpp
+	"FlightCodeGenerator.h"
+	<iostream>
+	<stdlib.h>
+	<ctime>
+

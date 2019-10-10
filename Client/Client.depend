@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570650923 source:c:\develop\uni\estructura_datos\projects\client\main.cpp
+	<iostream>
+	<Client.h>
+	<string.h>
+
+1570651541 source:c:\develop\uni\estructura_datos\projects\client\src\client.cpp
+	<iostream>
+	"Client.h"
+	<string.h>
+	<random>
+
+1570650860 c:\develop\uni\estructura_datos\projects\client\include\client.h
+
