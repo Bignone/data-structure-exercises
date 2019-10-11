@@ -103,6 +103,7 @@ int main()
         }
         else if (option == "9") {
             cout << "9 > Salir del programa" << endl;
+            return 0;
         } else {
             cout << "Option not valid" << endl;
         }

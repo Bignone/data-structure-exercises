@@ -12,3 +12,16 @@
 
 1570650860 c:\develop\uni\estructura_datos\projects\client\include\client.h
 
+1570785178 source:c:\develop\uni\data-structure-exercises\client\main.cpp
+	<iostream>
+	<Client.h>
+	<string.h>
+
+1570784850 c:\develop\uni\data-structure-exercises\client\include\client.h
+
+1570792272 source:c:\develop\uni\data-structure-exercises\client\src\client.cpp
+	<iostream>
+	"Client.h"
+	<string.h>
+	<random>
+

@@ -42,6 +42,36 @@ void Client::write() {
     cout << "Client("<<dni<<", "<<name<<", "<<balance<<", "<<tlf<<")" << endl;
 }
 
+void Client::read(){
+    // input vars
+    string input_dni;
+    string input_name;
+    long input_tlf;
+    double input_balance;
+
+    // ask data
+    cout << "What's your dni? ";
+    getline (cin, input_dni);
+    cout << "What's your name and surname? ";
+    getline (cin, input_name);
+    cout << "What's your tlf? ";
+    cin >> input_tlf;
+    cout << "What's your balance? ";
+    cin >> input_balance;
+
+    // set Client ats
+    char input_dni_char[input_dni.length() + 1];
+    strcpy(dni, input_dni.c_str());
+    char input_name_char[input_name.length() + 1];
+    strcpy(name, input_name.c_str());
+    balance = input_balance;
+    tlf = input_tlf;
+
+    cout << "Inserted client: " << endl;
+    write();
+
+}
+
 long generate_random_tlf() {
     long tlf = 600000000;
     long random_step;
@@ -90,9 +120,3 @@ void generate_random_name(char n[]){
     strcpy(n, random_name);
 }
 
-
-Client generate_random_client(){
-
-
-    return Client();
-}

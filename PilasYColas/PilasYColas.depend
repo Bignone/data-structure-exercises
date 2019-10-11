@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1570796432 source:c:\develop\uni\data-structure-exercises\pilasycolas\main.cpp
+	<iostream>
+	<Pila.h>
+	<Cola.h>
+
+1570795325 source:c:\develop\uni\data-structure-exercises\pilasycolas\src\nodo.cpp
+	"Nodo.h"
+
+1570795950 c:\develop\uni\data-structure-exercises\pilasycolas\include\nodo.h
+	<cstddef>
+
+1570795673 source:c:\develop\uni\data-structure-exercises\pilasycolas\src\pila.cpp
+	"Pila.h"
+	<cstddef>
+
+1570795585 c:\develop\uni\data-structure-exercises\pilasycolas\include\pila.h
+	"Nodo.h"
+
+1570796475 source:c:\develop\uni\data-structure-exercises\pilasycolas\src\cola.cpp
+	"Cola.h"
+	<cstddef>
+
+1570796211 c:\develop\uni\data-structure-exercises\pilasycolas\include\cola.h
+	"Nodo.h"
+
