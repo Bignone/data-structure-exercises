@@ -9,6 +9,11 @@ class Client
         Client(char dni[], char name[], double balance, long tlf);
         // Functions
         void write();
+        void read();
+        void getDni(char dni[]);
+        void getName(char name[]);
+        long getTlf();
+        double getBalance();
 
 
     private:

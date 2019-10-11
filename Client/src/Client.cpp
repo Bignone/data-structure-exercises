@@ -20,6 +20,24 @@ Client::Client(char d[], char n[], double b, long t) {
     tlf = t;
 }
 
+
+void Client::getDni(char d[]){
+    strcpy(d, dni);
+}
+
+
+void Client::getName(char n[]){
+    strcpy(n, name);
+}
+
+long Client::getTlf(){
+    return tlf;
+}
+
+double Client::getBalance(){
+    return balance;
+}
+
 void Client::write() {
     cout << "Client("<<dni<<", "<<name<<", "<<balance<<", "<<tlf<<")" << endl;
 }
