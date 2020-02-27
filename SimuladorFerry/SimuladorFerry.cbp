@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="PilasYColas" />
+		<Option title="SimuladorFerry" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/PilasYColas" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/SimuladorFerry" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/PilasYColas" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/SimuladorFerry" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -34,13 +34,23 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Barco.h" />
 		<Unit filename="include/Cola.h" />
+		<Unit filename="include/Configuracion.h" />
+		<Unit filename="include/Embarcadero.h" />
 		<Unit filename="include/Nodo.h" />
 		<Unit filename="include/Pila.h" />
+		<Unit filename="include/Taquilla.h" />
+		<Unit filename="include/Vehiculo.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Barco.cpp" />
 		<Unit filename="src/Cola.cpp" />
+		<Unit filename="src/Configuracion.cpp" />
+		<Unit filename="src/Embarcadero.cpp" />
 		<Unit filename="src/Nodo.cpp" />
 		<Unit filename="src/Pila.cpp" />
+		<Unit filename="src/Taquilla.cpp" />
+		<Unit filename="src/Vehiculo.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

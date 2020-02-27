@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1576520254 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\main.cpp
+	<iostream>
+	<Vehiculo.h>
+	<Viaje.h>
+	<NodoLista.h>
+	<Lista.h>
+	<NodoArbol.h>
+	<ArbolBB.h>
+	<Configuracion.h>
+
+1576406139 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\src\viaje.cpp
+	"Viaje.h"
+	<iostream>
+	<algorithm>
+
+1576405595 c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\include\viaje.h
+	<iostream>
+	<string.h>
+
+1576346941 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\src\nodolista.cpp
+	"NodoLista.h"
+	"Viaje.h"
+
+1576346899 c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\include\nodolista.h
+	<cstddef>
+	"Viaje.h"
+
+1576450376 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\src\lista.cpp
+	"Lista.h"
+	<Viaje.h>
+	<iostream>
+	<string.h>
+
+1576410389 c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\include\lista.h
+	<NodoLista.h>
+	<Viaje.h>
+	<cstddef>
+
+1576423331 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\src\vehiculo.cpp
+	"Vehiculo.h"
+	<Lista.h>
+	<Viaje.h>
+	<iostream>
+	<string.h>
+	<random>
+	<time.h>
+	<stdio.h>
+	<ctype.h>
+
+1576423255 c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\include\vehiculo.h
+	<Lista.h>
+	<iostream>
+	<string.h>
+
+1576347094 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\src\nodoarbol.cpp
+	"NodoArbol.h"
+	<Vehiculo.h>
+	<Viaje.h>
+	<Lista.h>
+	<stdio.h>
+
+1576347081 c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\include\nodoarbol.h
+	<Vehiculo.h>
+
+1576519735 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\src\arbolbb.cpp
+	"ArbolBB.h"
+	<iostream>
+	"NodoArbol.h"
+
+1576518914 c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\include\arbolbb.h
+	<iostream>
+	"NodoArbol.h"
+	<Vehiculo.h>
+
+1576410902 source:c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\src\configuracion.cpp
+	"Configuracion.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+
+1576348553 c:\develop\uni\data-structure-exercises\simuladorcentrocontrol\include\configuracion.h
+	<algorithm>
+

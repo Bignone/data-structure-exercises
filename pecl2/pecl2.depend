@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1575829625 source:c:\develop\uni\data-structure-exercises\pecl2\main.cpp
+	<iostream>
+	<Vehiculo.h>
+	<Viaje.h>
+	<NodoLista.h>
+	<Lista.h>
+	<NodoArbol.h>
+	<ArbolBB.h>
+
+1576344735 source:c:\develop\uni\data-structure-exercises\pecl2\src\vehiculo.cpp
+	"Vehiculo.h"
+	<Lista.h>
+	<iostream>
+	<string.h>
+	<random>
+	<time.h>
+	<stdio.h>
+	<ctype.h>
+
+1576344495 c:\develop\uni\data-structure-exercises\pecl2\include\vehiculo.h
+	<Lista.h>
+	<iostream>
+	<string.h>
+
+1575030097 source:c:\develop\uni\data-structure-exercises\pecl2\src\nodolista.cpp
+	"NodoLista.h"
+	"Viaje.h"
+	"Vehiculo.h"
+
+1576346420 c:\develop\uni\data-structure-exercises\pecl2\include\nodolista.h
+	<cstddef>
+	"Viaje.h"
+
+1575023573 source:c:\develop\uni\data-structure-exercises\pecl2\src\viaje.cpp
+	"Viaje.h"
+	<iostream>
+	<algorithm>
+
+1576345126 c:\develop\uni\data-structure-exercises\pecl2\include\viaje.h
+	<Lista.h>
+	<iostream>
+	<string.h>
+
+1576346142 source:c:\develop\uni\data-structure-exercises\pecl2\src\nodoarbol.cpp
+	"NodoArbol.h"
+	<Vehiculo.h>
+	<Viaje.h>
+	<Lista.h>
+	<stdio.h>
+
+1576346105 c:\develop\uni\data-structure-exercises\pecl2\include\nodoarbol.h
+	<Vehiculo.h>
+
+1575740545 source:c:\develop\uni\data-structure-exercises\pecl2\src\lista.cpp
+	"Lista.h"
+
+1576346501 c:\develop\uni\data-structure-exercises\pecl2\include\lista.h
+	<NodoLista.h>
+	<Viaje.h>
+	<cstddef>
+
+1576346044 source:c:\develop\uni\data-structure-exercises\pecl2\src\arbolbb.cpp
+	"ArbolBB.h"
+	<iostream>
+	"NodoArbol.h"
+
+1576345944 c:\develop\uni\data-structure-exercises\pecl2\include\arbolbb.h
+	<iostream>
+	"NodoArbol.h"
+	<Vehiculo.h>
+

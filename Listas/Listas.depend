@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1573821573 source:c:\develop\uni\data-structure-exercises\listas\main.cpp
+	<iostream>
+	<Lista.h>
+	<Alumno.h>
+
+1573820174 source:c:\develop\uni\data-structure-exercises\listas\src\alumno.cpp
+	"Alumno.h"
+	<iostream>
+	<string.h>
+	<random>
+	<time.h>
+
+1573820221 c:\develop\uni\data-structure-exercises\listas\include\alumno.h
+	<iostream>
+	<string.h>
+
+1573818715 source:c:\develop\uni\data-structure-exercises\listas\src\nodo.cpp
+	"Nodo.h"
+
+1573818718 c:\develop\uni\data-structure-exercises\listas\include\nodo.h
+	<cstddef>
+	<Alumno.h>
+
+1573821661 source:c:\develop\uni\data-structure-exercises\listas\src\lista.cpp
+	"Lista.h"
+
+1573821453 c:\develop\uni\data-structure-exercises\listas\include\lista.h
+	<Nodo.h>
+	<cstddef>
+

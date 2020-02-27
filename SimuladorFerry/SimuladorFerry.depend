@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1572898499 source:c:\develop\uni\data-structure-exercises\simuladorferry\main.cpp
+	<iostream>
+	<Vehiculo.h>
+	<Nodo.h>
+	<Pila.h>
+	<Cola.h>
+	<Barco.h>
+	<Embarcadero.h>
+	<Taquilla.h>
+	<Simulador.h>
+	<time.h>
+
+1572898877 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\vehiculo.cpp
+	"Vehiculo.h"
+	<iostream>
+	<string.h>
+	<random>
+	<time.h>
+
+1572002307 c:\develop\uni\data-structure-exercises\simuladorferry\include\vehiculo.h
+	<iostream>
+	<string.h>
+
+1572898690 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\cola.cpp
+	"Cola.h"
+	<cstddef>
+	"Vehiculo.h"
+	"Nodo.h"
+
+1572020259 c:\develop\uni\data-structure-exercises\simuladorferry\include\cola.h
+	"Nodo.h"
+	"Vehiculo.h"
+
+1572001287 c:\develop\uni\data-structure-exercises\simuladorferry\include\nodo.h
+	<cstddef>
+	"Vehiculo.h"
+
+1571480792 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\nodo.cpp
+	"Nodo.h"
+	"Vehiculo.h"
+
+1572899030 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\pila.cpp
+	"Pila.h"
+	<cstddef>
+	"Vehiculo.h"
+	"Nodo.h"
+
+1571396518 c:\develop\uni\data-structure-exercises\simuladorferry\include\pila.h
+	"Nodo.h"
+	"Vehiculo.h"
+
+1572898745 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\barco.cpp
+	"Barco.h"
+	"Vehiculo.h"
+	"Nodo.h"
+	<random>
+
+1572614124 c:\develop\uni\data-structure-exercises\simuladorferry\include\barco.h
+	<Pila.h>
+
+1572798400 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\embarcadero.cpp
+	"Embarcadero.h"
+
+1571505327 c:\develop\uni\data-structure-exercises\simuladorferry\include\embarcadero.h
+	<Cola.h>
+
+1572897995 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\taquilla.cpp
+	"Taquilla.h"
+	<time.h>
+	<random>
+
+1571477169 c:\develop\uni\data-structure-exercises\simuladorferry\include\taquilla.h
+	<Cola.h>
+
+1572002829 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\simulador.cpp
+	"Simulador.h"
+	<random>
+
+1571681763 c:\develop\uni\data-structure-exercises\simuladorferry\include\simulador.h
+	<Embarcadero.h>
+	<Taquilla.h>
+	<Barco.h>
+	<Vehiculo.h>
+	<Configuracion.h>
+
+1572898098 source:c:\develop\uni\data-structure-exercises\simuladorferry\src\configuracion.cpp
+	"Configuracion.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+
+1572605683 c:\develop\uni\data-structure-exercises\simuladorferry\include\configuracion.h
+	<algorithm>
+
